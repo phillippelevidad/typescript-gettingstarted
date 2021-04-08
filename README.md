@@ -100,10 +100,10 @@ logger("Something to log");
 
 ## Continue with...
 
-Advanced TypeScript
-https://app.pluralsight.com/library/courses/typescript-advanced/table-of-contents
-TypeScript is a modern language with many advanced features. This course will teach you those features that build on the fundamentals you already know and allow you to harness its full power to write better code with fewer errors.
+[Advanced TypeScript](https://app.pluralsight.com/library/courses/typescript-advanced/table-of-contents)
 
-TypeScript In-depth
-https://app.pluralsight.com/library/courses/typescript-in-depth/table-of-contents
-This course will help you learn all of the major language features in the latest versions of TypeScript
+> TypeScript is a modern language with many advanced features. This course will teach you those features that build on the fundamentals you already know and allow you to harness its full power to write better code with fewer errors.
+
+[TypeScript In-depth](https://app.pluralsight.com/library/courses/typescript-in-depth/table-of-contents)
+
+> This course will help you learn all of the major language features in the latest versions of TypeScript
