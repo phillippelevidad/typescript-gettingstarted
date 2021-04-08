@@ -1,0 +1,12 @@
+{
+    "extends": "../tsconfig.base" /* .json extension is implicit */,
+    "compilerOptions": {
+        "removeComments": true,
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "traceResolution": true
+    },
+    "files": [
+        "./app.ts"
+    ]
+}
